@@ -1,1 +1,3 @@
-M
+# My test repository
+
+Information: ...
